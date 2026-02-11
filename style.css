@@ -1,0 +1,240 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+header {
+    gap: 700px;
+    display: flex;
+    
+    box-sizing: border-box;
+    background-color: rgb(236, 236, 236);
+    width: 100%;
+    position: fixed;
+
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-left: 60px;
+}
+
+nav ul {
+display: flex;
+list-style-type: none;
+gap: 25px;
+font-size: medium;
+margin-left: 10px;
+}
+li a {
+    
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+li a:hover{
+    color: rgb(236, 43, 9);
+    
+}
+
+.page-1{
+    padding-top: 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.hearder {
+    padding-top: 200px;
+    padding-left: 30px;
+}
+.img{
+    padding-left: 250px;
+}
+
+#button1{ padding: 15px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(226, 43, 43);
+    border-radius: 5px;
+    margin-top: 2%;
+
+}
+#button2{
+     padding: 15px;
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 2%;
+    border: solid;
+    
+
+}
+.divlien a{
+    padding: 15px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 2%;
+}
+.headingP2{
+    padding-left: 500px;
+}
+
+.content2{
+    display: flex;
+    gap: 20px;
+    margin-left: 90px;
+    
+}
+.content-left2{
+    padding-top: 70px;
+    padding-left: 20px;
+    width: 380px;
+height: 330px;
+border-radius: 5px;
+background-color: rgb(255, 255, 255);
+border: solid red;
+
+
+}
+.content-middle2{
+    padding-top: 70px;
+    padding-left: 20px;
+  width: 380px;
+height: 330px;
+border-radius: 5px;
+background-color: rgb(255, 255, 255);
+border: solid red;
+}
+.content-right2{
+    padding-top: 70px;
+    padding-left: 20px;
+    width: 380px;
+height: 330px;
+border-radius: 5px;
+background-color: rgb(255, 255, 255);
+border: solid red;
+}
+
+.headingP3{
+    padding-left: 500px;
+}
+.content-left3{
+    padding-left: 45px;
+    background-color: rgb(255, 255, 255);
+    width: 750px;
+
+}
+.content3{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    list-style: ;
+    height: ;
+}
+
+.content3 li {
+    color: blue;
+    text-align: center;
+}
+
+
+.number{
+    background-color: rgb(255, 255, 255);
+    width: 25px;
+    height: 25px;
+    justify-content: center;
+    padding-left: 40px;
+}
+
+.content-right3{
+    height: 200px;
+}
+
+.entete h2{
+
+}
+.number{
+    width:50px;
+    height: 50px;
+    padding-top: 10px;
+
+}
+.contentpara{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(20, 20, 20);
+    display: flex;
+}
+.photoo{
+    display: flex;
+    gap: 20px;
+ margin-left: 85px;
+}
+.photo img{
+    width: 300px;
+    
+}
+.entetee{
+    margin-left: 520px;
+    padding-top: 50px;
+}
+.mail-icone{
+    display: flex;
+    align-items: center;
+}
+input .mail{
+    background-color:
+}
+.footericone{
+    display: flex;
+    gap: 
+    15px;
+}
+.upperfooter{
+display: flex;
+margin-left: 60px;
+font-size: 25px;
+gap: 50px;
+}
+button{
+    padding: 5px;
+    height: px;
+    width: 300px;
+    color: aliceblue;
+    background-color: rgb(179, 1, 1);
+    margin-left: 32px;
+}
+input{
+    padding: 5px;
+    height: px;
+    width: 286px;
+    color: aliceblue;
+    background-color: rgb(255, 255, 255);
+}
+.lowerfooter{
+display: flex;
+padding-top: 180px;
+font-size: 25px;
+gap: 300px;
+background-color: rgb(238, 238, 238);
+width: 100%;
+
+}
+
+.lowerfooter img {
+    width: 150px;
+    margin-left: 100px;
+    padding-bottom: 100px;
+}
+.hori{
+   
+}
